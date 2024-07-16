@@ -67,6 +67,7 @@ main {
   padding-inline: 2rem;
   min-width: 1000px;
   margin: 0 auto;
+  max-width: 100vmax;
 }
 
 .nav-list {
